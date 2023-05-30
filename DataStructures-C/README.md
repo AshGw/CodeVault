@@ -1,10 +1,9 @@
 # DataStructures
-#### Help beginners understand the concepts and get hands-on experience working with simple data structures
 ## Overview
 
-Welcome to this Subdirectory ! 
+**Welcome to this Subdirectory ! 
 
-This Sub-D aims to provide simple and easy-to-understand implementations of basic data structures in C. 
+This Sub-D aims to provide simple and easy-to-understand implementations of basic data structures in C to help beginners understand the concepts and get hands-on experience working with these simple data structures
 <br>If you've ever struggled to find straightforward code examples , you've come to the right place.
 
 ## How It Came About ?

@@ -12,8 +12,6 @@ int max(int a, int b) {
   return (a > b) ? a : b;
 }
 
-
-
 tree *makeleaf(int e){
     tree *leaf = malloc(sizeof(tree));
     leaf->e = e ;

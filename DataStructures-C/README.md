@@ -1,5 +1,5 @@
 # DataStructures
-
+#### Help beginners understand the concepts and get hands-on experience working with simple data structures
 ## Overview
 
 Welcome to this Subdirectory ! 

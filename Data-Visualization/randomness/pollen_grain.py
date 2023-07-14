@@ -1,5 +1,9 @@
 import matplotlib.pyplot as plt
+import requests
 import random
+
+
+url = 'https://random.org/integers/?num=1&min=2&max=10000&col=5&base=10&format=plain&end=new'
 
 
 class PollenPath:
@@ -7,10 +11,11 @@ class PollenPath:
         self.distance = distance_m
         self.x_points = [0]
         self.y_points = [0]
+        random.seed(int(requests.get(url).text))
 
     @staticmethod
     def air_blow():
-        return [a for a in range(2, 4)]
+        return random.randint(2, 3)
 
     def setps(self):
         if self.air_blow() == 1:

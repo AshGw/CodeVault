@@ -8,7 +8,7 @@
 - **Practical Resources :** Concise and well-explained code snippets that are easy to understand and implement.
 <br><br>
 - **Continuous Updates :** Regularly updated repository with new code snippets and resources.
-## Getting Started ##
+## How to ? ##
 1) Clone the repo
 ```shell
 git clone https://github.com/AshGw/CodeVault.git
